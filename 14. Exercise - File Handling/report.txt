@@ -1,0 +1,12 @@
+.adc
+- - - test.adc
+.py
+- - - 1. Even Lines.py
+- - - 2. Line Numbers.py
+- - - 3. File Manipulator.py
+- - - 4. Directory Traversal.py
+.rar
+- - - 14. Exercise - File Handling.rar
+.txt
+- - - report.txt
+- - - test1.txt
