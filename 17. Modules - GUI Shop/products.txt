@@ -1,0 +1,7 @@
+{"id": 1, "name": "laptop", "imgPath" : "laptop.jpg", "count":1 }
+{"id": 2, "name": "laptop", "imgPath" : "laptop.jpg", "count":1 }
+{"id": 3, "name": "laptop", "imgPath" : "laptop.jpg", "count":1 }
+{"id": 4, "name": "laptop", "imgPath" : "laptop.jpg", "count":1 }
+{"id": 5, "name": "laptop", "imgPath" : "laptop.jpg", "count":1 }
+{"id": 6, "name": "laptop", "imgPath" : "laptop.jpg", "count":1 }
+{"id": 7, "name": "laptop", "imgPath" : "laptop.jpg", "count":1 }
